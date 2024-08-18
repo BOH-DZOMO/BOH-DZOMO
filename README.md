@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BOH-DZOMO
+- 👋 Hi, I’m @BOH DZOMO
 - 👀 I’m interested in tech and cars
 - 🌱 I’m currently learning python and web development
 - 💞️ I’m looking to collaborate on ...
